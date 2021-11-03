@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+.idea/modules.xml
+.idea/unit-testing-python.iml
+.idea
 # Distribution / packaging
 .Python
 build/
